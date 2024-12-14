@@ -1,5 +1,13 @@
 {
-  "test": {
-    "test": "test"
-  }
+    "Macro": [
+        {
+            "name": "Berry",
+            "version": 1.101
+        }
+    ],
+    "Downloader": [
+        {
+            "version": 1
+        }
+    ]
 }
